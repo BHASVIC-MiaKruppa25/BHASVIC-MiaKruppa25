@@ -1,6 +1,8 @@
 ## ABOUT ME:
 
-hhh
+My name is Mia kruppa and I'm a first year student at BHASVIC. I'm currently studying mathematics, further mathematics, computer science and graphic design.
+..
+My hobbies are crocheting, making jewellery, paddle-boarding, surfing, reading, and hiking.
 
 <!--
 **BHASVIC-MiaKruppa25/BHASVIC-MiaKruppa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

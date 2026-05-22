@@ -4,6 +4,8 @@ My name is Mia kruppa and I'm a first year student at BHASVIC. I'm currently stu
 
 ..
 
+In GCSEs, I got a grade 9 in mathematics and a grade 8 in computer science, and average GCSE grades overall are 9999988777.
+
 Outside of computer science, my hobbies are crocheting, making jewellery, paddle-boarding, surfing, reading, and hiking.
 
 <!--
